@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Frank-Wang98.Github.io</id>
-    <title>Gridea</title>
-    <updated>2020-03-05T08:01:14.945Z</updated>
+    <title>Frank-Wang98的网站</title>
+    <updated>2020-03-05T08:08:49.077Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Frank-Wang98.Github.io"/>
     <link rel="self" href="https://Frank-Wang98.Github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>温故而知新.github</subtitle>
     <logo>https://Frank-Wang98.Github.io/images/avatar.png</logo>
     <icon>https://Frank-Wang98.Github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <rights>All rights reserved 2020, Frank-Wang98的网站</rights>
+    <entry>
+        <title type="html"><![CDATA[2020.3.5建造属于个人的网站]]></title>
+        <id>https://Frank-Wang98.Github.io/post/202035-jian-zao-shu-yu-ge-ren-de-wang-zhan/</id>
+        <link href="https://Frank-Wang98.Github.io/post/202035-jian-zao-shu-yu-ge-ren-de-wang-zhan/">
+        </link>
+        <updated>2020-03-05T08:05:40.000Z</updated>
+        <content type="html"><![CDATA[<p>学习、思考、写作及其他</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://Frank-Wang98.Github.io/post/hello-gridea/</id>
