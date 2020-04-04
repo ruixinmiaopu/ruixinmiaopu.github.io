@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ruixinmiaopu.Github.io</id>
-    <title>Frank-Wang98的网站</title>
-    <updated>2020-04-04T04:28:16.853Z</updated>
+    <title>瑞馨苗圃</title>
+    <updated>2020-04-04T04:32:09.668Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ruixinmiaopu.Github.io"/>
     <link rel="self" href="https://ruixinmiaopu.Github.io/atom.xml"/>
-    <subtitle>温故而知新.github</subtitle>
+    <subtitle>宣传推广苗木——绛县瑞馨</subtitle>
     <logo>https://ruixinmiaopu.Github.io/images/avatar.png</logo>
     <icon>https://ruixinmiaopu.Github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Frank-Wang98的网站</rights>
+    <rights>All rights reserved 2020, 瑞馨苗圃</rights>
     <entry>
         <title type="html"><![CDATA[【推荐】几张壁纸]]></title>
         <id>https://ruixinmiaopu.Github.io/post/tui-jian-ji-zhang-bi-zhi/</id>
